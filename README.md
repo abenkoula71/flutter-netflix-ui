@@ -1,1 +1,1 @@
-# netflix-ui
+# netflix-u
