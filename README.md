@@ -1,7 +1,16 @@
+# github
 
-<h1> flutter Flutter_Reduce_pollution </h1>
-<h4> You can change the information and link it to the databases ...</h4>
-<h3>Accueil</h3> 
-<img src="https://github.com/abenkoula71/netflix-ui/blob/main/Screenshot_1673037852.png" width="200" />
-<img src="https://github.com/abenkoula71/netflix-ui/blob/main/Screenshot_1673037858.png" width="200" /> 
-<hr>
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
